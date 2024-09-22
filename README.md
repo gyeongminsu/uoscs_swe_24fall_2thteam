@@ -1,7 +1,7 @@
 # uoscs_swe_24fall_2thteam
 
 ## **Project Team Name**
-  경김권김송채
+  경김권김송최
 ## **Project Participants**
   2020920001 경민수 \
   2020520008 김세연 \
