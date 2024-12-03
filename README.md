@@ -20,11 +20,14 @@
   2024년 2학기
 
 ## **Highlighted Features**
-
+  (발표자료 완성 후 그에 따라 작성 예정)
+  
 ## **Project Constraints**
-
-## **High Level Architecture
-
+  (논의 후 작성 예정)
+  
+## **High Level Architecture**
+  (사진 첨부 예정)
+  
 ## **Technology Stacks**
   협업 툴 : Notion, Github, Slack \
   Machine Learning : Google Gemini API
@@ -33,12 +36,12 @@
   Backend : JAVA Spring boot
 
 ## **Installation guideline**
+  (추후 작성 예정)
 
 
 
 
-
-
+# Legacy
 
   
 ## **Project Description**
