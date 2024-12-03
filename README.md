@@ -2,13 +2,6 @@
 
 ## **Project Team Name**
   경김권김송최
-## **Project Participants**
-  2020920001 경민수 \
-  2020520008 김세연 \
-  2021920006 권민재 \
-  2021920020 김혜주 \
-  2022920038 송채희 \
-  2022920060 최재원
   
 ## **Project Title**
   시대생모여라
@@ -38,8 +31,29 @@
 ## **Installation guideline**
   (추후 작성 예정)
 
+## **Project Deliverables
+  ### 요구사항 분석 명세서 final version :
+  ### Architecture 및 Design Documents
+    - Software architecture : (차후 링크 업데이트 예정)
+    - Software Design : (차후 링크 업데이트 예정)
+    - UI Design : (차후 링크 업데이트 예정)
+  ### Coding Standard : 
+  ### Code
+    - branch description
+    - documentation
+    
+  ### Test Case & Test Results
 
+## Repository Sructure
+  ###
 
+## Project Team Members
+  2020920001 경민수 : Machine Learning
+  2020520008 김세연 : Design, Frontend
+  2021920006 권민재 : Frontend
+  2021920020 김혜주 : PM, Design, Frontend, Backend
+  2022920038 송채희 : Backend
+  2022920060 최재원 : Frontend
 
 # Legacy
 
