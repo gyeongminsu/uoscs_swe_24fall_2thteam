@@ -1,8 +1,3 @@
-# uoscs_swe_24fall_2thteam
-
-## **Project Team Name**
-  경김권김송최
-  
 ## **Project Title**
   시대생모여라
   
