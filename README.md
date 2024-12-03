@@ -11,7 +11,34 @@
   2022920060 최재원
   
 ## **Project Title**
-  시립대 오프라인 모임 매칭 플랫폼
+  시대생모여라
+  
+## **Project Scope**
+  서울시립대학교 컴퓨터과학부 2024년 소프트웨어공학 프로젝트로, Software Development Life-Cycle을 기반으로 객체지향 소프트웨어공학 방법론을 적용하여 서울시립대학교 학생 모임 매칭 플랫폼을 개발
+
+## **Project Duration**
+  2024년 2학기
+
+## **Highlighted Features**
+
+## **Project Constraints**
+
+## **High Level Architecture
+
+## **Technology Stacks**
+  협업 툴 : Notion, Github, Slack \
+  Machine Learning : Google Gemini API
+  Design : Figma
+  Frontend : React Native
+  Backend : JAVA Spring boot
+
+## **Installation guideline**
+
+
+
+
+
+
 
   
 ## **Project Description**
