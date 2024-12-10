@@ -95,6 +95,7 @@
 ## Repository Sturcture
 
   ### Frontend
+- (https://github.com/SW-2024-fall/team-matching-client)
   - assets: 정적인 파일들을 저장한다.
   - context: authContext (token, user info) 등 전역적으로 전달할 값들을 전달한다.
   - hooks: 공통 hooks를 정의한다.
@@ -107,6 +108,7 @@
     - auth, main, meeting, meetingBoard, meeting, meetingHistory, profile, recommend
 
   ### Backend
+  - (https://github.com/SW-2024-fall/team-matching-server)
 - common
 - dto, entity, enums, exception, message folder: 공통으로 사용되는 클래스들 모음
 core
