@@ -89,8 +89,8 @@
       - swagger 사용: API 명세를 제공함으로써 프론트와의 소통을 용이하게 하였다.
       - themeStyle 적용: font size, color, border radius 등의 값을 단계별로 나누어 정의, 일관된 UI를 제공하였다.
     
-  ### Test Case & Test Results
-  (추후 추가 예정)
+ ### Test Case & Test Results
+  <img width="892" alt="image" src="https://github.com/user-attachments/assets/499635c6-569e-4905-ab07-6c8cd76ce904">
 
 ## Repository Sturcture
 
