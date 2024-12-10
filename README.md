@@ -81,9 +81,16 @@
   ### Coding Standard : 
   ### Code
     - branch description
+      - main: 테스트까지 모두 통과과되어 안정성까지 인증된 기능들만 모인 곳이다
+      - develop: PR에서 이상이 발견되지 않은 경우 merge를 진행하는 브랜치이다. 이 브랜치를 기준으로 개발이 이뤄진다.
+      - feature-[번호]/[기능]: issue 단위로 개발을 진행할 때의 브랜치이다. 완성 시 develop 브랜치로 PR을 올린다.
     - documentation
+      - Facade Pattern 적용: user, meeting, history 등이 서로의 테이블과 밀접하게 관련 있고, 관련된 중간 테이블이 많이 존재하게 되어 여러 도메인 서비스가 강하게 결합되는 문제점이 발생하여 전체를 통합하는 Facade service와 각 도메인 또는 도메인-도메인별 service를 분리하였다.
+      - swagger 사용: API 명세를 제공함으로써 프론트와의 소통을 용이하게 하였다.
+      - themeStyle 적용: font size, color, border radius 등의 값을 단계별로 나누어 정의, 일관된 UI를 제공하였다.
     
   ### Test Case & Test Results
+  (추후 추가 예정)
 
 ## Repository Sturcture
 
