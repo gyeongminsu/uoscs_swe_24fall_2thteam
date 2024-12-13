@@ -52,7 +52,7 @@
   - 모임 관리: 활동 기록 작성, 출석 관리, 모임원 관리
 
 
-## **Project Deliverables
+## Project Deliverables
 
 ### Non-Functional Requirement
 - Performance: 
