@@ -75,10 +75,11 @@
 ## **Project Deliverables
   ### 요구사항 분석 명세서 final version :
   ### Architecture 및 Design Documents
-    - Software architecture : (차후 링크 업데이트 예정)
-    - Software Design : (차후 링크 업데이트 예정)
-    - UI Design : (차후 링크 업데이트 예정)
-  ### Coding Standard : 
+- <a href="https://github.com/gyeongminsu/uoscs_swe_24fall_2thteam/tree/main/artifacts#:~:text=High%2Dlevel%20Architecture%20UML%20Diagrams%20Document%20.docx">Software architecture</a>
+- <a href="https://github.com/gyeongminsu/uoscs_swe_24fall_2thteam/tree/main/artifacts#:~:text=UI%20DESIGN%20DOCUMENT.docx">UI Design</a>
+
+### Coding Standard
+  <a href="https://github.com/gyeongminsu/uoscs_swe_24fall_2thteam/tree/main/artifacts#:~:text=last%20month-,coding_%EA%B2%BD%EA%B9%80%EA%B6%8C%EA%B9%80%EC%86%A1%EC%B1%84.md,-3%20weeks%20ago">coding_경김권김송채.md</a>
   ### Code
     - branch description
       - main: 테스트까지 모두 통과과되어 안정성까지 인증된 기능들만 모인 곳이다
@@ -90,6 +91,8 @@
       - themeStyle 적용: font size, color, border radius 등의 값을 단계별로 나누어 정의, 일관된 UI를 제공하였다.
     
  ### Test Case & Test Results
+- <a href="https://github.com/gyeongminsu/uoscs_swe_24fall_2thteam/tree/main/artifacts#:~:text=Test%20case_%EA%B2%BD%EA%B9%80%EA%B6%8C%EA%B9%80%EC%86%A1%EC%B5%9C.xlsx">Test Case</a>
+- Test Result
   <img width="892" alt="image" src="https://github.com/user-attachments/assets/499635c6-569e-4905-ab07-6c8cd76ce904">
 
 ## Repository Sturcture
