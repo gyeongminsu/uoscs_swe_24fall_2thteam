@@ -1,6 +1,11 @@
 ## **Project Title**
   시대생모여라-시대생 모임 플랫폼
   
+- <a href="https://github.com/gyeongminsu/uoscs_swe_24fall_2thteam/blob/main/reports/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%B5%ED%95%99%20%EA%B2%BD%EA%B9%80%EA%B6%8C%EA%B9%80%EC%86%A1%EC%B5%9C%20%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%95%88%20(1).pdf">최종발표 보러가기</a>
+
+https://github.com/user-attachments/assets/7691917d-634e-46ab-9fe3-a11233840628
+
+
 ## **Project Scope**
 - 서울시립대학교 학생을 대상으로 한 모임 매칭 플랫폼을 개발합니다.
 - Software Development Life-Cycle(SDLC)을 기반으로 객체지향 소프트웨어공학 방법론을 적용하는 것이 목표입니다. 
